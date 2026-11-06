@@ -2,12 +2,13 @@
 
 An exact, high-performance clone of [ysuriadesign.co](https://ysuriadesign.co/), the award-winning 2026 portfolio of **Yogi Suria** (Design Engineer & Motion Designer). Nominated on Awwwards ("Site of the Day").
 
-Built using the **latest Next.js 16+, React 19, Tailwind CSS v4, Three.js, Web Audio API, and custom GLSL shaders**.
+Built using the **latest Next.js 16+, React 19, Tailwind CSS v4, Three.js, Web Audio API, custom GLSL shaders, and pnpm**.
 
 ---
 
 ## ⚡ Tech Stack (Latest Versions)
 
+- **Package Manager:** pnpm 12.18.0
 - **Framework:** Next.js 16.4.5 (App Router with Turbopack)
 - **UI Library:** React 19.3.1 & React DOM 19.3.1
 - **Styling:** Tailwind CSS 4.0.17 & PostCSS
@@ -37,6 +38,7 @@ Built using the **latest Next.js 16+, React 19, Tailwind CSS v4, Three.js, Web A
 4. **Procedural Web Audio Engine:**
    - Multi-track ambient soundplayer with chapter-specific resonant lowpass filter cutoff frequencies (`480Hz`, `850Hz`, `1700Hz`, `520Hz`, `1300Hz`, `2400Hz`, `15000Hz`).
    - Procedural impulse response reverb (`Wy`) and pink/brown noise atmospheric soundscape.
+   - Sub-bass sine oscillator (41.2Hz) and 5.3Hz LFO atmospheric soundscape.
    - Sub-bass sine oscillator (41.2Hz) and 5.3Hz LFO aura tremolo.
    - Full interactive SFX suite: card hover, modal open/close, clicks, chapter titles, seams, and release bursts.
 
@@ -66,17 +68,17 @@ Built using the **latest Next.js 16+, React 19, Tailwind CSS v4, Three.js, Web A
 
 ### 1. Install Dependencies
 ```bash
-npm install
+pnpm install
 ```
 
 ### 2. Run the Development Server
 ```bash
-npm run dev
+pnpm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to experience the website.
 
 ### 3. Production Build
 ```bash
-npm run build
-npm run start
+pnpm run build
+pnpm run start
 ```
