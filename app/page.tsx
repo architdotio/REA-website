@@ -23,26 +23,12 @@ export default function Home() {
           <div className="ft-r">
             <a
               className="ft-mail"
-              href="mailto:reachout@architjha.live?subject=Project%20enquiry"
+              href="mailto:architkumar78335@gmail.com?subject=Project%20enquiry"
             >
-              reachout@architjha.live
+              architkumar78335@gmail.com
               <span aria-hidden="true">→</span>
             </a>
             <nav className="ft-links mono" aria-label="Elsewhere">
-              <a
-                href="https://architjha.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Portfolio ↗
-              </a>
-              <a
-                href="https://x.com/architjha"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                X ↗
-              </a>
               <a
                 href="https://www.linkedin.com/in/architjha/"
                 target="_blank"
@@ -69,9 +55,6 @@ export default function Home() {
             data-jump="0"
             aria-label="One Thread: back to start"
           >
-            <span className="mark-pic" aria-hidden="true">
-              <b>AJ</b>
-            </span>
             <span className="mark-word">Archit&nbsp;Jha</span>
           </a>
           <div className="counter mono" aria-live="polite">
@@ -101,7 +84,7 @@ export default function Home() {
 
         <section className="intro" id="intro">
           <h1 className="intro-title">
-            Archit Jha, design, motion and code, by one person.
+            Archit Jha: design, motion and code, by one person.
           </h1>
         </section>
 
