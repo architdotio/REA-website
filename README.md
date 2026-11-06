@@ -62,6 +62,16 @@ Built using the **latest Next.js 16+, React 19, Tailwind CSS v4, Three.js, Web A
    - Floating Awwwards Nominee badge.
    - Responsive footer with "Begin again ↑" smooth rewind.
 
+8. **Complete Visual & 3D Shaders Pipeline:**
+   - **Chapter 00 Sanctuary:** 8 procedurally carved basalt monoliths in an orbiting ring with floating basalt shards and crystal egg encasing the humanoid figure.
+   - **Chapter 01 Monolith Terrain:** Cracked stone terrain with 420 procedural rubble rocks.
+   - **Chapter 02 Volcanic Plain:** Volcanic lava plain with 14 basalt columns and 3D floating discipline tags with leader lines.
+   - **Chapter 03 Ember Grassland:** 22,000 blades of glowing ember-tipped grass, 1,100 swirling ember particles, 1,200 floating dust motes, and 4 curved interactive 3D project cards.
+   - **Chapter 04 Dunes & Golden Gate:** 460x460 desert dunes with glittering quartz highlights and the golden gate portal.
+   - **Chapter 05 Cybernetic Core:** 300 descending fiber optic cables and 70 arched suspension cables with traveling light pulses and LED matrix displays.
+   - **Custom Post-Processing:** Liquid lens distortion, chromatic aberration, volumetric fog, bokeh depth-of-field, and bloom.
+   - **Complete Verification:** Verified end-to-end with Chrome DevTools Protocol across all chapters, audio toggles, work modal, and footer.
+
 ---
 
 ## 🚀 Getting Started

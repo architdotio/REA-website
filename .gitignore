@@ -36,3 +36,14 @@ next-env.d.ts
 
 # REA Archive
 .rea-archive
+
+# Verification & Test Scripts
+.chrome*
+*.png
+capture_*.js
+verify_*.js
+test_*.js
+extract_*.js
+check_*.js
+find_*.js
+
