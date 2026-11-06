@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Yogi Suria — Design Engineer',
+  title: 'Archit Jha · Design Engineer',
   description:
-    'Yogi Suria — a one-person design engineer and marketing motion designer. Brand, product, motion and code, from sketch to shipped.',
+    'Archit Jha, a one-person design engineer and marketing motion designer. Brand, product, motion and code, from sketch to shipped.',
   icons: {
     icon: 'data:,',
   },
