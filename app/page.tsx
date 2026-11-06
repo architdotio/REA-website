@@ -30,7 +30,7 @@ export default function Home() {
             </a>
             <nav className="ft-links mono" aria-label="Elsewhere">
               <a
-                href="https://www.linkedin.com/in/architjha/"
+                href="https://www.linkedin.com/in/archit-jha"
                 target="_blank"
                 rel="noopener noreferrer"
               >
