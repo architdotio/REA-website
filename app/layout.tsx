@@ -5,7 +5,6 @@ export const metadata: Metadata = {
   title: 'Yogi Suria — Design Engineer',
   description:
     'Yogi Suria — a one-person design engineer and marketing motion designer. Brand, product, motion and code, from sketch to shipped.',
-  themeColor: '#000000',
   icons: {
     icon: 'data:,',
   },
@@ -15,6 +14,7 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   viewportFit: 'cover',
+  themeColor: '#000000',
 };
 
 export default function RootLayout({
